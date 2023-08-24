@@ -1,0 +1,32 @@
+body{
+  padding: 20px;
+  background: #FFC4EB;
+  color: white;
+  text-align: center;
+}
+a{
+text-decoration:none;
+color: white;
+}
+
+.pro-img{
+  width: 50%;
+  border-radius: 50%;
+  font-family: Poppins, sans-serif;
+}
+.btn{
+  display: block;
+  color: black;
+  padding: 20px;
+  background: white;
+  margin: 16px;
+  box-shadow: 5px  10px lightblue;
+}
+
+h1{
+  font-size: large;
+}
+
+p{
+  font-size: small;
+}
